@@ -447,8 +447,20 @@
         padding: 0 15px;
     }
 
+    .sec9-text2 h2 {
+        font-size: 2.2rem;
+    }
+
+    .sec9-text2 h3 {
+        font-size: 1.8rem;
+    }
+
+    .sec9-text2 P {
+        font-size: 1.6rem;
+    }
+
     .col-28 {
-        width: 32%;
+        width: 30%;
     }
 
     .col-15 {
@@ -526,6 +538,19 @@
 
     .col-28 {
         width: 28%;
+    }
+
+
+    .sec9-text2 h2 {
+        font-size: 2.4rem;
+    }
+
+    .sec9-text2 h3 {
+        font-size: 2.2rem;
+    }
+
+    .sec9-text2 P {
+        font-size: 1.7rem;
     }
 
     .col-15 {
